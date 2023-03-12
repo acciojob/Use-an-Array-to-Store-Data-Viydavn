@@ -1,2 +1,3 @@
-let yourArray = [1,String,false,3,4,5];
-console.log(yourArray);
+let simpleArray = ['one', 2, 'three', true, false, undefined, null];
+console.log(simpleArray.length);
+// logs 7
